@@ -52,6 +52,26 @@ Any adaptation MUST understand that this is based on true events, and may not di
 
 3. **COMMERCIAL LICENSING:** Any production studio, agency, director, or game publisher seeking commercial options or adaptation rights MUST execute a formal written agreement with the author. Any unauthorized audiovisual or interactive production will constitute immediate, willful copyright infringement under international copyright treaties (Berne Convention / WIPO) and U.S. Copyright Law.
 
+
+---
+
+## 🔴 緣起聲明：為什麼要先做這件事
+
+好萊塢長期以來接收劇本的方式，對獨立創作者極不友善。沒有經紀人、沒有工會、沒有洛杉磯地址的原創者，作品往往在進入製片廠大門前就被系統性過濾掉。無數真正有生命重量的故事，從未被看見。
+
+為了改變這個難以投遞的結構性問題，我選擇先做出一件事：**把完整劇本、世界觀、版權聲明、與加密時間戳，一次性公開放在網路上。**
+
+這樣做的目的不是曝光，而是建立一個新的「可被驗證的投遞方式」：
+
+- 劇本在 GitHub 上有 SHA-256 指紋
+- 有明確時間戳（任何人無法事後宣稱原創）
+- 有清楚版權邊界（保護作者，也保護製片方）
+- 好萊塢可以直接看到作品全貌，不必經過層層經紀人過濾
+
+**我希望這件事能促進劇本被 Warner Bros. (WB) 等主流片廠直接看見，並促成產業化的改編合作。**
+
+我不是要繞過體制，我是要讓體制裡真正想看故事的人，能直接看到故事。
+
 ---
 
 **Author / 作者:** Huu (郝)
